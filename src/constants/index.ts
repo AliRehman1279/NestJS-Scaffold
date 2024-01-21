@@ -1,0 +1,9 @@
+export const SERVER_HOST = 'SERVER_HOST';
+export const SERVER_PORT = 'SERVER_PORT';
+export const DATABASE_HOST = 'DATABASE_HOST';
+export const DATABASE_PORT = 'DATABASE_PORT';
+export const DATABASE_USER = 'DATABASE_USER';
+export const DATABASE_PASSWORD = 'DATABASE_PASSWORD';
+export const DATABASE_URI = 'DATABASE_URI';
+export const DATABASE_NAME = 'DATABASE_NAME';
+export const SERVER_ENV = 'SERVER_ENV';
